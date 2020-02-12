@@ -1,2 +1,24 @@
-# mass_tool
-This project is part of my bachelor thesis "Entwicklung eines Konzeptes und Prototypens eines Programms zur Erstellung und Verwaltung von Massenänderungen im operativen Datenbestand in der Finanz Informatik GmbH und Co. KG".
+# bachelorarbeit
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

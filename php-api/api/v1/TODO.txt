@@ -1,0 +1,2 @@
+es muss noch zentrale Möglichkeit gefunden werden, wie verschiedene Feler im Output ausgeschlossen/erlaubt werden, neben den normalen sichtbarkeiten. 
+Z.B. über Klasse DBTable?
