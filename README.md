@@ -24,5 +24,10 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # php-api
-import api-data in server, which supports php
--> no install needed
+import php-api into serverfiles
+requirements:
+- PHP support
+
+# relational database
+the folder mysql_database contains an sql-file, wich can be used to create a relational databse. 
+add access data to the backend database config file \php-api\api\v1\data\config\database\config.php
