@@ -11,7 +11,7 @@
     "axios": "^0.19.2",
     "bootstrap-vue": "^2.2.2",
     "core-js": "^3.4.4",
-    "ibm_db": "^2.6.3",
+    "ibm_db": "^2.8.2",
     "mdbvue": "^6.2.0",
     "oracledb": "^4.1.0",
     "telnet-client": "^1.2.7",
